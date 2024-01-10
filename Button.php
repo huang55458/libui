@@ -2,7 +2,8 @@
 
 namespace UI\Controls;
 
-use UI\Control\Control;
+
+use UI\Control;
 
 class Button extends Control
 {

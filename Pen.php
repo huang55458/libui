@@ -4,7 +4,6 @@ namespace UI\Draw;
 
 
 
-use UI\Draw\Stroke\Stroke;
 use UI\Draw\Text\Layout;
 use UI\Point;
 

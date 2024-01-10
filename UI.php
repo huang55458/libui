@@ -3,13 +3,10 @@
 namespace UI;
 
 
-class UI
+function quit()
 {
-    function quit()
-    {
-    }
+}
 
-    function run()
-    {
-    }
+function run()
+{
 }

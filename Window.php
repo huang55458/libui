@@ -1,5 +1,5 @@
 <?php
-namespace UI\Point;
+namespace UI;
 
 
 use UI\Control;

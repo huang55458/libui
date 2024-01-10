@@ -2,10 +2,6 @@
 
 namespace UI;
 
-use UI\Control\Control;
-use UI\Point\Point;
-use UI\Size\Size;
-
 class Area extends Control
 {
     /* 常量 */

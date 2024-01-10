@@ -2,7 +2,7 @@
 
 namespace UI\Controls;
 
-use UI\Control\Control;
+use UI\Control;
 use UI\Draw\Color;
 
 class ColorButton extends Control
